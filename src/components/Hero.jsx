@@ -1,7 +1,9 @@
 const Hero = () => {
-  const myName = "codetraffics";
-
-  return <h1>Hello, I'm {myName}. Welcome to my world!</h1>;
+  return (
+    <h1 className="hero__info">
+      Hello, I'm codetraffics. Welcome to my world!
+    </h1>
+  );
 };
 
 export default Hero;
