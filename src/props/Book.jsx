@@ -1,10 +1,12 @@
-const Book = (props) => {
+const Book = ({ img, title, authors, isAudiobook, year, children }) => {
   return (
     <div>
-      <img src={props.img} alt={props.name} />
-      <h1>Title: {props.title}</h1>
-      <p>Author: {props.author}</p>
-      <p>Audiobook: {props.isAudiobook}</p>
+      <img src={img} alt={title} />
+      <h1>Title: {title}</h1>
+      <p>Author: {authors}</p>
+      <p>Audiobook: {isAudiobook}</p>
+      <p>Year: {year}</p>
+      {children}
     </div>
   );
 };
