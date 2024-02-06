@@ -16,6 +16,14 @@ Used react fragments to display multiple components in App.js
 
 Practiced more on how JSX is compiled into React code using [Babel](https://babeljs.io/repl#?browsers=defaults%2C%20not%20ie%2011%2C%20not%20ie_mob%2011&build=&builtIns=false&corejs=3.21&spec=false&loose=false&code_lz=Q&debug=false&forceAllTransforms=false&modules=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=env%2Creact%2Cstage-2&prettier=false&targets=&version=7.23.10&externalPlugins=&assumptions=%7B%7D).
 
+### `February 5, 2024`
+
+Worked with JavaScript map() method to render links in React.
+
+### `February 6, 2024`
+
+After several hours of watching HuXn WebDev demonstrate props in the video, I mastered props in React and used it to create books component.
+
 ## Learn More
 
 ```
