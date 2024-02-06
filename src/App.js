@@ -1,7 +1,8 @@
-import Hero from "./components/Hero";
-import Bio from "./components/Bio";
-import Expressions from "./components/Expressions";
-import Lists from "./components/Lists";
+// import Hero from "./components/Hero";
+// import Bio from "./components/Bio";
+// import Expressions from "./components/Expressions";
+// import Lists from "./components/Lists";
+import Books from "./props/Books";
 
 const App = () => {
   return (
@@ -9,7 +10,8 @@ const App = () => {
       {/* <Hero />
       <Bio /> */}
       {/* <Expressions /> */}
-      <Lists />
+      {/* <Lists /> */}
+      <Books />
     </>
   );
 };

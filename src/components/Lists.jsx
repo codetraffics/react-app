@@ -35,7 +35,7 @@ const Lists = () => {
 
       {/* Example #2 */}
       {userData.map((user) => (
-        <ul>
+        <ul key={Math.random() * 10}>
           <li>
             {user.firstName} {user.lastName}
           </li>
