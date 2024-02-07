@@ -24,7 +24,12 @@ Worked with JavaScript map() method to render links in React.
 
 After several hours of watching HuXn WebDev demonstrate props in the video, I mastered props in React and used it to create books component.
 
-## Learn More
+### `February 7, 2024`
+
+Implemented conditional rendering with if, && and tenary operator.
+Implemented how to add inline styles, separate css file, react bootsrap and tailwind css to a project.
+
+## Projects
 
 ```
 
