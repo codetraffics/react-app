@@ -31,6 +31,4 @@ Implemented how to add inline styles, separate css file, react bootsrap and tail
 
 ## Projects
 
-```
-
-```
+Bookshop App: [View Code on Github](https://github.com/codetraffics/bookshop).
