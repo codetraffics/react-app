@@ -34,3 +34,4 @@ Implemented how to add inline styles, separate css file and installed [React Boo
 1. Bookshop App: [View Code on Github](https://github.com/codetraffics/bookshop).
 
 2. Counter App: [View Code on Github](https://github.com/codetraffics/counter).
+   ![counter app](screenshot.png)

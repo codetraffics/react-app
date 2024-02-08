@@ -1,9 +1,9 @@
-import Move from "./events/Move";
+import Friends from "./usestate/Friends";
 
 const App = () => {
   return (
     <>
-      <Move />
+      <Friends />
     </>
   );
 };
