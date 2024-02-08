@@ -27,8 +27,10 @@ After several hours of watching HuXn WebDev demonstrate props in the video, I ma
 ### `February 7, 2024`
 
 Implemented conditional rendering with if, && and tenary operator.
-Implemented how to add inline styles, separate css file, react bootsrap and tailwind css to a project.
+Implemented how to add inline styles, separate css file and installed [React Bootsrap](https://react-bootstrap.netlify.app/docs/getting-started/introduction) and [Tailwind css](https://tailwindcss.com/docs/guides/create-react-app) in a project. Added icons to the project using [React icons](https://react-icons.github.io/react-icons/)
 
 ## Projects
 
-Bookshop App: [View Code on Github](https://github.com/codetraffics/bookshop).
+1. Bookshop App: [View Code on Github](https://github.com/codetraffics/bookshop).
+
+2. Counter App: [View Code on Github](https://github.com/codetraffics/counter).
